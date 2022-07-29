@@ -98,13 +98,13 @@
 	    <repository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Releases Nexus Repository</name>
-	      <url>http://65.0.97.173:8081/repository/samsung-release/</url>
+	      <url>http://52.66.239.100:8081/repository/supermarket-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
 	      <name>Mithun Technologies Snapshot Nexus Repository </name>
-	      <url>http://65.0.97.173:8081/repository/samsung-snapshot/</url>
+	      <url>http://52.66.239.100:8081/repository/supermarket-snapshot/</url>
 	    </snapshotRepository>
 	    
 	</distributionManagement>
